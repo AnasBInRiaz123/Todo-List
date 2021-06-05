@@ -1,0 +1,39 @@
+div#list{
+    list-style: none;
+}
+input{
+    height: 20px;
+
+}
+::placeholder { 
+    color: rgba(78, 67, 73, 0.514);
+    font-size: 1rem;
+    text-shadow: 1rem;
+    
+    
+  }
+  #Add{
+      background-color: rgb(6, 6, 141);
+      color: cornsilk;
+      height: 30px;
+  }
+  #delAll{
+    background-color: rgb(255, 94, 0);
+      color: rgb(255, 255, 255);
+      height: 30px;
+
+  }
+  .btn1{
+      height: 35px;
+      width: 35px;
+      
+  }
+  .btn2{
+    height: 27px;
+    width: 27px;
+    
+  }
+
+  li{
+      border-bottom: 2px darkgray solid ;
+  }
